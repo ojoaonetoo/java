@@ -1,0 +1,9 @@
+public class item_1 {
+
+	public static void main(String[]args) {
+		 int tot = 4;
+	    double P = 3.1416; 
+		double ar = P *(tot*tot);
+		System.out.println("Valor da area: "+ ar);	
+	}	
+}
