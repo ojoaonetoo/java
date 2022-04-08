@@ -1,0 +1,19 @@
+public class item_2 {
+
+	public static void main(String[] args) {
+		double x = 3.1;
+		double z = 3.5;
+		double c = 9.8;
+		double P = 3.14159 ;
+		double at = (x * c) / 2;
+		double ac = P * (c*c);
+		double atr = (x + z) * c / 2 ; 
+		double aaq = z * z ;
+		double aar = x * z;
+		System.out.println("A do triangulo: " + at);
+		System.out.println("A do circulo: " + ac);
+		System.out.println("A do trapezio: " + atr);
+		System.out.println("A do quadrado: " + aaq);
+		System.out.println("A do retăngulo: " + aar);
+		}
+	}
